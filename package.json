@@ -3,9 +3,23 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@react-pdf/renderer": "^1.1.1",
+    "bootstrap": "^4.2.1",
+    "express": "^4.16.4",
+    "jquery": "^3.3.1",
+    "mdbreact": "^4.8.7",
     "react": "^16.7.0",
+    "react-bootstrap": "^0.32.4",
+    "react-bootstrap-dropdown-menu": "^1.1.15",
     "react-dom": "^16.7.0",
-    "react-scripts": "2.1.2"
+    "react-file-viewer": "^1.0.0",
+    "react-files": "^2.4.8",
+    "react-pdf": "^4.0.2",
+    "react-render-html": "^0.6.0",
+    "react-scripts": "2.1.2",
+    "react-select": "^2.2.0",
+    "reactstrap": "^7.0.2",
+    "yarn": "^1.13.0"
   },
   "scripts": {
     "start": "react-scripts start",
