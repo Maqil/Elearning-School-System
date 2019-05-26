@@ -5,7 +5,7 @@
 - for mac : https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/
 - for Linux : https://docs.mongodb.com/manual/administration/install-on-linux/
 
-`Start by cloning the project`
+## Start by cloning the project
 
 ```bash
 $ git clone https://github.com/Maqil/Elearning.git
