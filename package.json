@@ -19,7 +19,7 @@
     "react-scripts": "2.1.2",
     "react-select": "^2.2.0",
     "reactstrap": "^7.0.2",
-    "yarn": "^1.13.0"
+    "yarn": "^1.22.0"
   },
   "scripts": {
     "start": "react-scripts start",
