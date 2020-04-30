@@ -6,7 +6,7 @@
     "@react-pdf/renderer": "^1.1.1",
     "bootstrap": "^4.2.1",
     "express": "^4.16.4",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "mdbreact": "^4.8.7",
     "react": "^16.7.0",
     "react-bootstrap": "^0.32.4",
